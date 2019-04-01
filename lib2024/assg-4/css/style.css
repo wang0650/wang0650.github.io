@@ -1,3 +1,7 @@
-site-header{
+.header{
 	background-color: green;
+
+}
+.logo{
+	float: left;
 }
