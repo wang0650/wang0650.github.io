@@ -1,10 +1,5 @@
-.col-main, .col-footer,img{
-	width: 100%;
-}
 header{
 	background: #7cc576
-	width:100%;
-	height: 22.67%
 }
 
 
@@ -12,15 +7,5 @@ header{
 
 
 
-.header{
-	width: 100%;
-	height: 22.67%;
-	background-color:#7cc576;
-}
-.logo{
-	float: left;
-}
-.h1{
-	float: right;
-}
+
 
