@@ -3,7 +3,12 @@
 }
 header{
 	background: #7cc576;
+	width: 100%;
+	height: 22.87%;
 
+}
+.logo{
+	float: left;
 }
 
 
