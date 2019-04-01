@@ -1,7 +1,13 @@
 .header{
-	background-color: green;
+	width: 960px;height: 230px;
+	background-color: 7cc576;
 
 }
+.h1{
+	float: center;
+
+}
+
 .logo{
 	float: left;
 }
