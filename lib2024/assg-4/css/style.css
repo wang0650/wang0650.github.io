@@ -1,11 +1,12 @@
-.header{
-	width: 960px;height: 230px;
+header{
+	width: 960px;
+	height: 230px;
 	background-color:#7cc576;
+}
+.logo{
+	float: left;
 }
 .h1{
 	float: right;
 }
 
-.logo{
-	float: left;
-}
